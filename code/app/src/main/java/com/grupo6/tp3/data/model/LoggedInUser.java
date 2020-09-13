@@ -1,4 +1,4 @@
-package com.grupo06.tp03.data.model;
+package com.grupo6.tp3.data.model;
 
 /**
  * Data class that captures user information for logged in users retrieved from LoginRepository

@@ -1,11 +1,11 @@
-package com.grupo06.tp03.ui.login;
+package com.grupo6.tp3.ui.login;
 
 import androidx.lifecycle.ViewModel;
 import androidx.lifecycle.ViewModelProvider;
 import androidx.annotation.NonNull;
 
-import com.grupo06.tp03.data.LoginDataSource;
-import com.grupo06.tp03.data.LoginRepository;
+import com.grupo6.tp3.data.LoginDataSource;
+import com.grupo6.tp3.data.LoginRepository;
 
 /**
  * ViewModel provider factory to instantiate LoginViewModel.

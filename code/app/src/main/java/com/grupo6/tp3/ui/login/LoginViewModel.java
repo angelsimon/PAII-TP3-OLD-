@@ -1,4 +1,4 @@
-package com.grupo06.tp03.ui.login;
+package com.grupo6.tp3.ui.login;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
@@ -6,10 +6,10 @@ import androidx.lifecycle.ViewModel;
 
 import android.util.Patterns;
 
-import com.grupo06.tp03.data.LoginRepository;
-import com.grupo06.tp03.data.Result;
-import com.grupo06.tp03.data.model.LoggedInUser;
-import com.grupo06.tp03.R;
+import com.grupo6.tp3.data.LoginRepository;
+import com.grupo6.tp3.data.Result;
+import com.grupo6.tp3.data.model.LoggedInUser;
+import com.grupo6.tp3.R;
 
 public class LoginViewModel extends ViewModel {
 

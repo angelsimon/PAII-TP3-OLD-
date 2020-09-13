@@ -1,4 +1,4 @@
-package com.grupo06.tp03;
+package com.grupo6.tp3;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.grupo06.tp03.ui.login;
+package com.grupo6.tp3.ui.login;
 
 import androidx.annotation.Nullable;
 

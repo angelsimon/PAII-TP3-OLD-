@@ -1,4 +1,4 @@
-package com.grupo06.tp03;
+package com.grupo6.tp3;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.grupo06.tp03", appContext.getPackageName());
+        assertEquals("com.grupo6.tp3", appContext.getPackageName());
     }
 }

@@ -1,6 +1,6 @@
-package com.grupo06.tp03.data;
+package com.grupo6.tp3.data;
 
-import com.grupo06.tp03.data.model.LoggedInUser;
+import com.grupo6.tp3.data.model.LoggedInUser;
 
 /**
  * Class that requests authentication and user information from the remote data source and
