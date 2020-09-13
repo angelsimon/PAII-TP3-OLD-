@@ -1,0 +1,11 @@
+﻿Curso de Android + SQLite práctico
+https://www.youtube.com/playlist?list=PLnWAzeXp9V4my1r9re0Qxl1VTmr7wxlKs
+
+Múltiples tablas en SQLite
+https://www.youtube.com/watch?v=MOE_Hokh_O0
+
+Como crear un NAVIGATION DRAWER en Android | 2020
+https://www.youtube.com/watch?v=5BiQZ01-H9U&feature=youtu.be
+
+
+
