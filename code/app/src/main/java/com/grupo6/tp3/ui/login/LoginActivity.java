@@ -23,8 +23,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.grupo6.tp3.R;
-import com.grupo6.tp3.ui.login.LoginViewModel;
-import com.grupo6.tp3.ui.login.LoginViewModelFactory;
 
 public class LoginActivity extends AppCompatActivity {
 
@@ -37,9 +35,9 @@ public class LoginActivity extends AppCompatActivity {
         loginViewModel = ViewModelProviders.of(this, new LoginViewModelFactory())
                 .get(LoginViewModel.class);
 
-        final EditText usernameEditText = findViewById(R.id.username);
-        final EditText passwordEditText = findViewById(R.id.password);
-        final Button loginButton = findViewById(R.id.login);
+        final EditText usernameEditText = findViewById(R.id.txtNombre);
+        final EditText passwordEditText = findViewById(R.id.txtClave);
+        final Button loginButton = findViewById(R.id.btnLogin);
         final ProgressBar loadingProgressBar = findViewById(R.id.loading);
 
         loginViewModel.getLoginFormState().observe(this, new Observer<LoginFormState>() {
